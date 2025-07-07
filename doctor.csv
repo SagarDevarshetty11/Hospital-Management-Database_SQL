@@ -1,0 +1,11 @@
+doctor_id,first_name,last_name,specialization,phone,email,department,joining_date
+2001,Dr. Aditi,Sharma,Cardiology,919876543240,aditi.sharma@hospital.com,Cardiology,2015-06-10
+2002,Dr. Rajesh,Verma,Neurology,919876543241,rajesh.verma@hospital.com,Neurology,2018-03-15
+2003,Dr. Priya,Desai,Pediatrics,919876543242,priya.desai@hospital.com,Pediatrics,2020-11-22
+2004,Dr. Vikram,Patel,Orthopedics,919876543243,vikram.patel@hospital.com,Orthopedics,2017-09-05
+2005,Dr. Neha,Bansal,Oncology,919876543244,neha.bansal@hospital.com,Oncology,2019-01-30
+2006,Dr. Rahul,Reddy,General Practice,919876543245,rahul.reddy@hospital.com,General Practice,2016-02-20
+2007,Dr. Kavita,Menon,Dermatology,919876543246,kavita.menon@hospital.com,Dermatology,2016-05-15
+2008,Dr. Sanjay,Brown,Internal Medicine,919876543247,sanjay.brown@hospital.com,Internal Medicine,2014-08-10
+2009,Dr. Pooja,Williams,Endocrinology,919876543248,pooja.williams@hospital.com,Endocrinology,2017-12-01
+2010,Dr. Amit,Jones,Cardiology,919876543249,amit.jones@hospital.com,Cardiology,2018-04-25

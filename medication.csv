@@ -1,0 +1,13 @@
+medicine_id,medicine_name,quantity,price_per_unit,manufacturer,category,expiry_date
+M001,Paracetamol 500mg,1000,5.00,Sun Pharma,Painkiller,2025-05-15
+M002,Cetirizine 10mg,500,7.50,Cipla,Antihistamine,2024-10-20
+M003,Amlodipine 5mg,300,12.00,Ranbaxy,Cardiovascular,2025-03-10
+M004,Metformin 500mg,800,8.25,Dr. Reddy's,Diabetes,2024-12-30
+M005,Omeprazole 20mg,600,15.50,Zydus Cadila,Gastrointestinal,2025-01-25
+M006,Aspirin 75mg,750,3.75,Glenmark,Anticoagulant,2025-06-18
+M007,Atorvastatin 20mg,450,22.00,Lupin,Cholesterol,2024-11-11
+M008,Diclofenac 50mg,700,9.80,Torrent,Anti-inflammatory,2025-02-14
+M009,Levocetirizine 5mg,550,18.00,Aurobindo,Allergy,2025-07-22
+M010,Pantoprazole 40mg,400,14.50,Mankind,Acidity,2024-09-05
+M011,Losartan 50mg,350,13.75,Alkem,Blood Pressure,2025-04-30
+M012,Montelukast 10mg,650,17.25,Intas,Asthma,2024-08-12

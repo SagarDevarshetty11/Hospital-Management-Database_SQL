@@ -1,0 +1,13 @@
+staff_id,first_name,last_name,role,department,phone,email,joining_date,salary
+S001,Anjali,Mehta,Nurse,Emergency,919876543250,anjali.mehta@hospital.com,2018-05-12,45000
+S002,Rajiv,Nair,Receptionist,Front Desk,919876543251,rajiv.nair@hospital.com,2020-02-20,28000
+S003,Priya,Sharma,Nurse,ICU,919876543252,priya.sharma@hospital.com,2019-11-15,50000
+S004,Vikram,Patel,Laboratory Technician,Pathology,919876543253,vikram.patel@hospital.com,2017-08-10,32000
+S005,Sunita,Reddy,Nurse,Cardiology,919876543254,sunita.reddy@hospital.com,2021-01-30,48000
+S006,Arun,Desai,Receptionist,Admin,919876543255,arun.desai@hospital.com,2016-09-05,25000
+S007,Deepika,Verma,Nurse,Pediatrics,919876543256,deepika.verma@hospital.com,2018-07-22,47000
+S008,Rahul,Gupta,Pharmacist,Pharmacy,919876543257,rahul.gupta@hospital.com,2020-04-18,38000
+S009,Nisha,Kapur,Nurse,Orthopedics,919876543258,nisha.kapur@hospital.com,2019-03-10,52000
+S010,Manoj,Kumar,HR Assistant,HR Department,919876543259,manoj.kumar@hospital.com,2015-12-01,30000
+S011,Kavita,Singh,Nurse,Dermatology,919876543260,kavita.singh@hospital.com,2022-06-14,46000
+S012,Amit,Joshi,Security Staff,Security,919876543261,amit.joshi@hospital.com,2014-10-08,22000

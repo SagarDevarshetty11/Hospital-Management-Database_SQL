@@ -1,0 +1,21 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,diagnosis,prescription
+3001,1001,2001,2023-10-10,09:30:00,Completed,Hypertension,Lisinopril 10mg
+3002,1002,2003,2023-10-12,10:15:00,Scheduled,"Common cold, fever",Tylenol 500mg
+3003,1003,2002,2023-10-15,Cancelled,NULL,NULL
+3004,1004,2004,2023-10-18,11:45:00,Completed,"Fractured wrist",Painkillers + Cast
+3005,1005,2005,2023-10-20,13:30:00,Upcoming,NULL,NULL
+3006,1006,2006,2023-10-22,14:00:00,Completed,Allergy,Antihistamines
+3007,1007,2007,2023-10-25,09:00:00,Scheduled,Acne,Topical Cream
+3008,1008,2008,2023-10-28,10:30:00,Completed,Diabetes,Metformin
+3009,1009,2009,2023-10-30,11:00:00,Cancelled,NULL,NULL
+3010,1010,2010,2023-11-02,12:15:00,Upcoming,NULL,NULL
+3011,1011,2001,2023-11-05,09:00:00,Completed,Back Pain,Ibuprofen
+3012,1012,2002,2023-11-07,10:30:00,Scheduled,Flu,Oseltamivir
+3013,1013,2003,2023-11-10,11:00:00,Completed,Headache,Acetaminophen
+3014,1014,2004,2023-11-12,14:00:00,Cancelled,NULL,NULL
+3015,1015,2005,2023-11-15,13:30:00,Upcoming,NULL,NULL
+3016,1016,2006,2023-11-18,09:45:00,Completed,Allergy,Antihistamines
+3017,1017,2007,2023-11-20,10:15:00,Scheduled,Psoriasis,Topical Cream
+3018,1018,2008,2023-11-22,11:30:00,Completed,Diabetes,Insulin
+3019,1019,2009,2023-11-25,12:00:00,Cancelled,NULL,NULL
+3020,1020,2010,2023-11-28,14:00:00,Upcoming,NULL,NULL
